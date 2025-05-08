@@ -12,7 +12,6 @@ def menu_principal():
    while True:
        opcion = input("Seleccione su opción (0-3): ")
        if opcion == "1":
-         ancho
          pass
        elif opcion == "2":
            pass
