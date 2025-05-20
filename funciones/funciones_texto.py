@@ -15,5 +15,5 @@ print(nombre_completo.endswith("o"))
 
 print(f"Hola admirable y maravilloso {nombre} {apellido} {3+4}")
 print(f"Nombre y apellido en mayúsculas: {nombre_mayusculas} {apellido_mayusculas}")
-print(f"Nombew y apellido en miúsculas: {nombre_minusculas} {apellido_minusculas}")
+print(f"Nombre y apellido en miúsculas: {nombre_minusculas} {apellido_minusculas}")
 print(f"Nombre y apellido como título: {nombre_titulo} {apellido_titulo}")
