@@ -3,3 +3,4 @@ num = 1
 for x in lista_peliculas:
     print(f"pelicula {num}: {x}")
     num +=1
+print(lista_peliculas[2])
